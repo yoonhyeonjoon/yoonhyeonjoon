@@ -1,5 +1,3 @@
-##
-
 
 ### Cover Letter
 
