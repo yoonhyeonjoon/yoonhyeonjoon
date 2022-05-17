@@ -1,9 +1,9 @@
 
-### Cover Letter(Korean)
+### Cover Letter(Korean).
 https://yoonhyeonjoon.github.io/resume/
 
 
-### Android Open play ground 
+### Android Open play ground. 
   [![representative Badge](https://img.shields.io/badge/My%20Andriod%20Open%20Code-Compose%20%2B%20Firebase-brightgreen?style=flat-square&logo=github&link=https:/https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
 
 
