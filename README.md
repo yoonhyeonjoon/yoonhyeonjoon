@@ -1,10 +1,16 @@
-
-### Cover Letter (Korean).
-https://yoonhyeonjoon.github.io/resume/
+##
 
 
-### Android Open play ground. 
-  [![representative Badge](https://img.shields.io/badge/My%20Andriod%20Open%20Code-Compose%20%2B%20Firebase-brightgreen?style=flat-square&logo=github&link=https:/https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
+### Cover Letter
+
+[![representative Badge](https://img.shields.io/badge/CV-한국어-blue?style=flat-square&logo=github&link=https://yoonhyeonjoon.github.io/resume/)](https://yoonhyeonjoon.github.io/resume/)
+
+[![representative Badge](https://img.shields.io/badge/CV-English-blue?style=flat-square&logo=github&link=https://yoonhyeonjoon.github.io/resume-english/)](https://yoonhyeonjoon.github.io/resume-english/)
+
+### Android Open play ground 
+[![representative Badge](https://img.shields.io/badge/CV-English-blue?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
+
+
 
 
 ### About Me.
@@ -13,7 +19,7 @@ https://yoonhyeonjoon.github.io/resume/
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonhyeonjoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonhyeonjoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 </div>
   
