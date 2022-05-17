@@ -3,9 +3,9 @@
 
 ### Cover Letter
 
+[![representative Badge](https://img.shields.io/badge/CV-English-blue?style=flat-square&logo=github&link=https://yoonhyeonjoon.github.io/resume-english/)](https://yoonhyeonjoon.github.io/resume-english/)
 [![representative Badge](https://img.shields.io/badge/CV-한국어-blue?style=flat-square&logo=github&link=https://yoonhyeonjoon.github.io/resume/)](https://yoonhyeonjoon.github.io/resume/)
 
-[![representative Badge](https://img.shields.io/badge/CV-English-blue?style=flat-square&logo=github&link=https://yoonhyeonjoon.github.io/resume-english/)](https://yoonhyeonjoon.github.io/resume-english/)
 
 ### Android Open play ground 
 [![representative Badge](https://img.shields.io/badge/My%20Andriod%20Open%20Code-Compose%20%2B%20Firebase-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
