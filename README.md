@@ -1,5 +1,5 @@
 
-### Cover Letter(Korean).
+### Cover Letter (Korean).
 https://yoonhyeonjoon.github.io/resume/
 
 
