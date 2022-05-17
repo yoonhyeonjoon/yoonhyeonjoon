@@ -3,8 +3,6 @@
 • Present – Oct. 2020 Risc-V Chip design using Scala/Chisel in Semifive
 
 • 2015 - Present : Developing/Operating Android App.
- https://yoonhyeonjoon.github.io/resume/
- private blog : https://witcheryoon.tistory.com/
 
 • Oct. 2020 – Sep. 2017 Design Display algorithm/ Operating System in LGdisplay
 
@@ -21,7 +19,7 @@
 [![representative Badge](https://img.shields.io/badge/CV-한국어-blue?style=flat-square&logo=Android%20Auto&link=https://yoonhyeonjoon.github.io/resume/)](https://yoonhyeonjoon.github.io/resume/)
 
 
-### Android Open play ground :
+### My Android Open play ground :
 [![representative Badge](https://img.shields.io/badge/My%20Andriod%20Open%20Code-Compose%20%2B%20Firebase-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
 
 
