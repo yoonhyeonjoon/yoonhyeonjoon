@@ -1,5 +1,7 @@
-## Hi, I'm Yoon HyeonJoon - Software Engineer
+### Hello, I'm Yoon HyeonJoon
+(Kotlin/Scala Software Engineer)
 
+<br> 
 • Present – Oct. 2020 Risc-V Chip design using Scala/Chisel in Semifive
 
 • 2015 - Present : Developing/Operating Android App.
