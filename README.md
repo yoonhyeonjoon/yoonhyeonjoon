@@ -1,8 +1,6 @@
 
 
 
-https://github.com/yoonhyeonjoon/ExtensibleOuverture
-
 [![representative Badge](https://img.shields.io/badge/My%20Android%20Open%20Code-Compose%20%2F%20Firebase-brightgreen?style=flat-square&logo=github&link=https:/https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://witcheryoon.tistory.com/)](https://witcheryoon.tistory.com/)
