@@ -1,4 +1,18 @@
-## Hi, I'm Yoon HyeonJoon
+## Hi, I'm Yoon HyeonJoon - Software Engineer
+
+• Present – Oct. 2020 Risc-V Chip design using Scala/Chisel in Semifive
+
+• 2015 - Present : Developing/Operating Android App.
+ https://yoonhyeonjoon.github.io/resume/
+ private blog : https://witcheryoon.tistory.com/
+
+• Oct. 2020 – Sep. 2017 Design Display algorithm/ Operating System in LGdisplay
+
+• Mar. 2015 – Aug.2017 Korea University, Seoul, Korea
+ M.S., Electrical and Computer Engineering. 
+
+• Mar. 2011 – Feb. 2015 Korea University, Seoul, Korea,
+ B.S., Major: Electrical Engineering
 
 
 ### Cover Letter : 
