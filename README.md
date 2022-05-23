@@ -21,8 +21,11 @@
 [![representative Badge](https://img.shields.io/badge/CV-한국어-blue?style=flat-square&logo=Android%20Auto&link=https://yoonhyeonjoon.github.io/resume/)](https://yoonhyeonjoon.github.io/resume/)
 
 
-### My Android Open play ground :
-[![representative Badge](https://img.shields.io/badge/My%20Andriod%20Open%20Code-Compose%20%2B%20Firebase-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
+### Android Open play ground :
+[![representative Badge](https://img.shields.io/badge/My%20Android%20Open%20Code-Compose%20%2B%20Firebase-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
+
+### Chisel Open play ground 
+[![representative Badge](https://img.shields.io/badge/My%20Chisel%20Open%20Code-Scala-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ChiselGuide/)](https://github.com/yoonhyeonjoon/ChiselGuide/)
 
 
 <br>
