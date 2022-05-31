@@ -25,7 +25,7 @@
 [![representative Badge](https://img.shields.io/badge/My%20Android%20Open%20Code-Compose%20%2B%20Firebase-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
 
 ### Chisel Open play ground 
-[![representative Badge](https://img.shields.io/badge/My%20Chisel%20Open%20Source-Scala-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ChiselGuide/)](https://github.com/yoonhyeonjoon/ChiselGuide/)
+[![representative Badge](https://img.shields.io/badge/My%20Chisel%20Open%20Source-Scala/Chisel-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ChiselGuide/)](https://github.com/yoonhyeonjoon/ChiselGuide/)
 
 
 <br>
