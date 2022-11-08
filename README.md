@@ -16,9 +16,10 @@
 
 
 
-### Android Open play ground :
+<!-- ### Android Open play ground :
 [![representative Badge](https://img.shields.io/badge/My%20Android%20Open%20Code-Compose%20%2B%20Firebase-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ExtensibleOuverture/)](https://github.com/yoonhyeonjoon/ExtensibleOuverture/)
-
+ -->
+ 
 ### Scala/Chisel(Hardwarable Software Design Language) Open play ground 
 [![representative Badge](https://img.shields.io/badge/%20Chisel%20Open%20Source-Scala/Chisel-brightgreen?style=flat-square&logo=github&link=https://github.com/yoonhyeonjoon/ChiselGuide/)](https://github.com/yoonhyeonjoon/ChiselGuide/)
 
