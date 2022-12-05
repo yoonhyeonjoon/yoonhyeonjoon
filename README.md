@@ -1,5 +1,4 @@
 ### Hello, I'm Yoon HyeonJoon
-(Kotlin/Scala Software Engineer)
 
 <br> 
 • Oct. 2020 - Nov. 2022 Risc-V Chip design using Scala/Chisel in Semifive
