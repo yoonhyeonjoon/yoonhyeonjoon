@@ -2,11 +2,11 @@
 (Kotlin/Scala Software Engineer)
 
 <br> 
-• Present – Oct. 2020 Risc-V Chip design using Scala/Chisel in Semifive
+• Oct. 2020 - Nov. 2022 Risc-V Chip design using Scala/Chisel in Semifive
 
 • 2015 - Present : Developing/Operating Android App.
 
-• Oct. 2020 – Sep. 2017 Design Display algorithm/ Operating System in LGdisplay
+• Sep. 2017 - Oct. 2020 Design Display algorithm/ Operating System in LGdisplay
 
 • Mar. 2015 – Aug.2017 Korea University, Seoul, Korea
  M.S., Electrical and Computer Engineering. 
